@@ -10,6 +10,8 @@ The entry scripts are:
   * v1_example.m for V1 models (pooling based on PCA dimension reduction [1])
   * v2_example.m for V2 models (hierarchical sparse coding [2])
 
+Image data are not included in this distribution, but any natural images should give similar results.
+
 If you publish a paper based on this code, please cite [1], [2], or any following conference/journal publication.
 
 [1] Haruo Hosoya, Aapo Hyv?rinen. Learning Visual Spatial Pooling by Strong PCA Dimension Reduction. Neural Computation, 82:1-16, 2016.
