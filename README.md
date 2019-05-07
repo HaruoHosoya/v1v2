@@ -1,6 +1,6 @@
 This is part of the code used to implement several computation models for V1 and V2 developed by Haruo Hosoya and Aapo Hyvarinen [1,2].
-  * Hierarchical sparse coding model for V2 [1]
-  * Pooling model for V1 complex cells [2]
+  * Hierarchical sparse coding model for V2 [2]
+  * Pooling model for V1 complex cells [1]
 
 The code relies on overcomplete ICA algorithm based on score matching [3].  This needs to be downloaded separatedly.
   
